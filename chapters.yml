@@ -4,3 +4,6 @@
 - iterator.md: 迭代器
 - global_function.md: 全局函数
 - vector.md: 序列容器之vector
+- list.md: 序列容器之list
+- list_sort.md: list容器的排序算法sort()
+- deque.md: 序列容器之deque
